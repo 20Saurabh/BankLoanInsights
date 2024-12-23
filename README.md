@@ -1,6 +1,6 @@
 **Advanced Bank Loan Data Analysis: Empowering Decision-Making through Dynamic Insights**
 
-**Problem Statement**
+****Problem Statement************
 
 The current approach to loan data analysis lacks depth and interactivity, hindering the ability to derive meaningful insights for informed decision-making. Traditional reporting methods fall short in providing a comprehensive view of lending operations, borrower behavior, and loan performance metrics. There is a pressing need for advanced dashboard design to address these limitations and unlock the full potential of our loan data.
 
